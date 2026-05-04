@@ -51,7 +51,7 @@ The optimized ElasticNet model achieved the following metrics on the test datase
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/your-username/your-repo-name.git)](https://github.com/JayPatel1309/Stock-Market-Analysis.git
     ```
 2.  **Install dependencies:**
     ```bash
